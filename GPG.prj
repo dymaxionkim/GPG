@@ -1,0 +1,191 @@
+[Project Header]
+Version = 800
+Pathname = "/g/Down/각종 소프트웨어/공학용 잡프로그램/GPG ver0.8/GPG.prj"
+CVI Dir = "/c/program files/national instruments/cvi80"
+IVI Standard Root Dir = "/C/Program Files/IVI"
+VXIplug&play Framework Dir = "/c/vxipnp/winnt"
+Number of Files = 3
+Target Type = "Executable"
+Flags = 2064
+
+[File 0001]
+File Type = "CSource"
+Res Id = 1
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "GPG.c"
+Path = "/g/Down/각종 소프트웨어/공학용 잡프로그램/GPG ver0.8/GPG.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0002]
+File Type = "Include"
+Res Id = 2
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "GPG.h"
+Path = "/g/Down/각종 소프트웨어/공학용 잡프로그램/GPG ver0.8/GPG.h"
+Exclude = False
+Project Flags = 0
+Folder = "Include Files"
+
+[File 0003]
+File Type = "User Interface Resource"
+Res Id = 3
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "GPG.uir"
+Path = "/g/Down/각종 소프트웨어/공학용 잡프로그램/GPG ver0.8/GPG.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[Folders]
+Instrument Files Folder Not Added Yet = True
+Folder 0 = "User Interface Files"
+Folder 1 = "Source Files"
+Folder 2 = "Include Files"
+
+[Compiler Options]
+Default Calling Convention = "cdecl"
+Require Prototypes = True
+Require Return Values = True
+Enable Pointer Mismatch Warning = False
+Enable Unreachable Code Warning = False
+Enable Unreferenced Identifiers Warning = False
+Enable Assignment In Conditional Warning = False
+O Option Compatible With 5.0 = False
+Uninitialized Locals Compile Warning = "Conservative"
+
+[Run Options]
+Stack Size = 250000
+Image Base Address = 4194304
+
+[Compiler Defines]
+Compiler Defines = "/DWIN32_LEAN_AND_MEAN"
+
+[Create Executable]
+Executable File_Debug Is Rel = True
+Executable File_Debug Rel To = "Project"
+Executable File_Debug Rel Path = "GPG_dbg.exe"
+Executable File_Debug = "/g/Down/각종 소프트웨어/공학용 잡프로그램/GPG ver0.8/GPG_dbg.exe"
+Executable File_Release Is Rel = True
+Executable File_Release Rel To = "Project"
+Executable File_Release Rel Path = "GPG.exe"
+Executable File_Release = "/g/Down/각종 소프트웨어/공학용 잡프로그램/GPG ver0.8/GPG.exe"
+Icon File Is Rel = True
+Icon File Rel To = "Project"
+Icon File Rel Path = "Ball.ico"
+Icon File = "/g/Down/각종 소프트웨어/공학용 잡프로그램/GPG ver0.8/Ball.ico"
+Application Title = "GPG v0.8"
+Numeric File Version = "1,0,0,0"
+Numeric Prod Version = "1,0,0,0"
+Comments = ""
+Company Name = ""
+File Description = ""
+File Version = "0.8"
+Internal Name = "GPG"
+Legal Copyright = "Copyright Dymaxion, 2006"
+Legal Trademarks = ""
+Original Filename = "GPG.exe"
+Private Build = ""
+Product Name = "Dymaxion GPG v0.8"
+Product Version = "0.8"
+Special Build = ""
+DLL Exports = "Include File Symbols"
+DLL Import Library Choice = "Gen Lib For Current Mode"
+Use IVI Subdirectories for Import Libraries = False
+Use VXIPNP Subdirectories for Import Libraries = False
+Use Dflt Import Lib Base Name = True
+Where to Copy DLL = "Do not copy"
+Add Type Lib To DLL = False
+Include Type Lib Help Links = False
+Type Lib FP File Is Rel = False
+Type Lib FP File = ""
+Type Lib Guid = ""
+Runtime Support = "Full Runtime Support"
+Instrument Driver Support Only = False
+Embed Project .UIRs = True
+Generate Map File = False
+
+[External Compiler Support]
+UIR Callbacks File Option = 0
+Using LoadExternalModule = False
+Create Project Symbols File = True
+UIR Callbacks Obj File Is Rel = False
+UIR Callbacks Obj File = ""
+Project Symbols H File Is Rel = False
+Project Symbols H File = ""
+Project Symbols Obj File Is Rel = False
+Project Symbols Obj File = ""
+
+[Distribution Kit]
+Distribution Kit GUID = "{92E71E0F-4183-419B-8FCB-343E5169805D}"
+Installation Directory = "GPG"
+Installation Destination = 4
+Install Run-Time Engine = True
+Install RTE Privately = True
+Install Instrsup = False
+Install Instrsup Privately = True
+Install CVI_LVRT = False
+Install CVI_LVRT Privately = True
+Install Low-Level Support Driver = False
+Install ActiveX Container = False
+Media Size = 3
+kBytes Reserved on First Disk = 0
+Target Path Is Rel = True
+Target Path Rel To = "Project"
+Target Path Rel Path = "cvidistkit.GPG"
+Target Path = "/g/Down/각종 소프트웨어/공학용 잡프로그램/GPG ver0.8/cvidistkit.GPG"
+Language = "English"
+Core Group Index = 1
+DLL Group Index = -1
+Project File 0001 Is Rel = True
+Project File 0001 Rel To = "Project"
+Project File 0001 Rel Path = "GPG.exe"
+Project File 0001 = "/g/Down/각종 소프트웨어/공학용 잡프로그램/GPG ver0.8/GPG.exe"
+Redistribute DataSocket = 2
+Redistribute NIReports = 0
+Redistribute DDC = 0
+Redistribute CW3DGraph = 0
+Use Custom Script = False
+Run Executable After Setup Group Index = 1
+Run Executable After Setup File Index = 0
+Run Executable After Setup Args = ""
+Use Default Program Group Name = True
+Use Default Installation Name = True
+
+[Distribution Kit File Group 001]
+Group Name = "GPG v0.5 Files"
+Destination Directory = "Application"
+Use Relative Path = False
+Create Shortcuts = 1
+Install Icons = True
+Distribute Multiple Objects = False
+Replace Mode = "If Newer"
+Register As ActiveX Servers = False
+File 0001 Is Rel = True
+File 0001 Rel To = "Project"
+File 0001 Rel Path = "GPG.exe"
+File 0001 = "/g/Down/각종 소프트웨어/공학용 잡프로그램/GPG ver0.8/GPG.exe"
+
+[Distribution Kit Hardware Config]
+Include Hardware Config File = 0
+
+[ActiveX Server Options]
+Specification File Is Rel = False
+Specification File = ""
+Source File Is Rel = False
+Source File = ""
+Include File Is Rel = False
+Include File = ""
+IDL File Is Rel = False
+IDL File = ""
+Register ActiveX Server = False
+
+[tpcSection]
+tpcEnabled = 0
+tpcOverrideEnvironment = 0
+

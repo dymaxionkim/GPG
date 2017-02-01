@@ -1,0 +1,109 @@
+[Workspace Header]
+Version = 800
+Pathname = "/g/Down/각종 소프트웨어/공학용 잡프로그램/GPG ver0.8/GPG.cws"
+CVI Dir = "/c/program files/national instruments/cvi80"
+IVI Standard Root Dir = "/C/Program Files/IVI"
+VXIplug&play Framework Dir = "/c/vxipnp/winnt"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "GPG.prj"
+Drag Bar Left = 160
+Window Top = 44
+Window Left = 51
+Window Bottom = 1012
+Window Right = 1273
+Maximized = False
+Maximized Children = False
+Max Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win For Warnings = True
+Show Build Dialog = False
+Save Changes Before Running = "Always"
+Hide Windows = False
+Global Hot Key = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 3
+Window Confinement Region Enabled = True
+MainColumnWidth = 141
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+StatusColumnWidth = 70
+
+[Project Header 0001]
+Version = 800
+Don't Update DistKit = True
+Platform Code = 4
+Build Configuration = "Release"
+Warn User If Debugging Release = 0
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[File 0001]
+Path = "/g/Down/각종 소프트웨어/공학용 잡프로그램/GPG ver0.8/GPG.h"
+File Type = "Include"
+Disk Date = 3236735259
+In Projects = "1,"
+Window Top = 23
+Window Left = 4
+Window Z-Order = 3
+Source Window State = "1,11,11,11,3,15,15,0,0,96,0,0,0,0,0,23,60,0,1,15,427,805,1,0,"
+
+[File 0002]
+Path = "/g/Down/각종 소프트웨어/공학용 잡프로그램/GPG ver0.8/GPG.c"
+File Type = "CSource"
+Disk Date = 3236770546
+In Projects = "1,"
+Window Top = 123
+Window Left = 47
+Window Z-Order = 1
+Source Window State = "1,304,312,304,60,65,60,0,0,99,0,398,0,11,0,25,293,0,312,65,459,829,1,22,"
+
+[File 0003]
+Path = "/g/Down/각종 소프트웨어/공학용 잡프로그램/GPG ver0.8/GPG.uir"
+File Type = "User Interface Resource"
+Disk Date = 3236773744
+In Projects = "1,"
+Window Top = 53
+Window Left = 21
+Window Height = 674
+Window Width = 980
+Window Z-Order = 2
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = True
+Suppress CVI Error Messages = False
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+
+[Distributions]
+Active Index = 1
+AbsCDSPath 0001 = "/g/Down/각종 소프트웨어/공학용 잡프로그램/GPG ver0.8/GPG v0.8.cds"
+RelCDSPath 0001 = "GPG v0.8.cds"
+

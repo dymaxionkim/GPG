@@ -9,7 +9,7 @@ _Gear Profile Generator_
 
 
 ## 유의사항
-* 한글 코드 : EUC-KR
+* 한글 코드 : EUC-KR (Linux 환경에서 설치본 압축 해제시 유의활 것)
 * 설치 환경
   - MS Windows XP, Vista, 7, 8, 8.1, 10
   - Wine (MS Windows 8) in Linux

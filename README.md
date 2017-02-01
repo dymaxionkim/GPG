@@ -5,7 +5,7 @@ _Gear Profile Generator_
 ![2017-02-01 13-15-12](https://cloud.githubusercontent.com/assets/12775748/22495085/8a1546a0-e880-11e6-8302-089ae74e31b0.png)
 
 * 설치본 다운로드 : https://github.com/dymaxionkim/GPG/releases/tag/GPG_V0.8
-* 설명서(PDF) : https://dymaxionkim/github.io/GPG/README/GPG_V0.8_README.pdf
+* 설명서(PDF) : https://dymaxionkim.github.io/GPG/README/GPG_V0.8_README.pdf
 
 
 ## 유의사항
